@@ -58,7 +58,7 @@ $dessert = array(
     <div class="header container">
         <div class="header_logo">
             <center>
-                <img class="menu" src="inshot/logo.png" style="width:25%" alt="">
+                <img class="menu" src="logo.png" style="width:25%" alt="">
             </center>
         </div>
 
@@ -84,7 +84,7 @@ $dessert = array(
 
                         <div class="item_block" style="background:rgb(252, 175, 226); border-radius:20px; box-shadow: 1 5; padding:5px">
                             <div class="">
-                                <img class="header_logo_png" style="width:100%" src="inshot/soboy<?php echo $i ?>.png" alt="">
+                                <img class="header_logo_png" style="width:100%" src="soboy<?php echo $i ?>.png" alt="">
                             </div>
                             <p class="item_title" style="font-size:large;text-align:center; color:black;margin:0"><?php echo $sliv[$i - 1]; ?></p>
                             <p class="item_price" style="font-size: medium; text-align:center; margin:0"><?php echo $slivPrice[$i - 1]; ?></p>
