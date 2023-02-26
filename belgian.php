@@ -69,7 +69,7 @@ $slivPrice = [
     <div class="header container">
         <div class="header_logo">
             <center>
-                <img class="menu" src="inshot/logo.png" style="width:25%" alt="">
+                <img class="menu" src="logo.png" style="width:25%" alt="">
             </center>
         </div>
 
@@ -97,7 +97,7 @@ $slivPrice = [
             box-shadow: 0,0,5,5">
 
                         <div class="container ">
-                            <img class="header_logo_png" style="width:100%" src="inshot/belg<?php echo $i ?>.png" alt="">
+                            <img class="header_logo_png" style="width:100%" src="belg<?php echo $i ?>.png" alt="">
                         </div>
                         <p class="item_title" style="font-size:30px;
                     text-align:center;
